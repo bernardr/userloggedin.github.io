@@ -11,7 +11,7 @@ title:            User Logged In
 tagline:          'Felt Cute Will Delete Later'
 description:      'hacking & ⚑ ⚑ ⚑.'
 url:              userloggedin.bernardr.com
-baseurl:          /
+baseurl:          ./
 
 author:
   name:           'userloggedin'
