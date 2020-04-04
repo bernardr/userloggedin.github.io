@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            User Logged In
 tagline:          'Felt Cute Will Delete Later'
 description:      'hacking & ⚑ ⚑ ⚑.'
-url:              http://localhost:4000
+url:              localhost
 baseurl:          /
 author:
   name:           'userloggedin'
