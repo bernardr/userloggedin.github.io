@@ -1,0 +1,32 @@
+---
+layout: post
+title: Drones
+permalink: 2020-04-03-drones.html
+tags: drones, maps, projects
+---
+
+`Originally posted a while ago` 
+
+## Background
+
+Over the last few months I’ve gotten more interested in plotting events on a map. This curiousity merges well with my anger over America’s covert wars in Yemen, Afghanistan, and Pakistan.
+
+In particular, the use of “unmanned combat air vehicles” known more commonly as drones to conduct, “drone strikes”. Drones have played a signifiant role in America’s covert wars. Their use on the battlefield has either been directly responsible, or aided air strikes in remote parts of Yemen, Pakistan, and Somalia.
+The Map
+
+The map below, created with TileMill, Mapbox, and data provided by dronestream paints an alarming picture.
+
+Each point marks a reported strike. Points in brightest red, draw attention to strikes whose numbers killed exceeded 20 people.
+
+The map is interactive. Clicking a point will provide you with the number of civilian deaths reported, as well as how number of children killed as a result of these attacks.
+Data & Methodology
+
+This map was created with free, and publicly available data and tools. Dronestream provides “Real-time and historical data about every reported United States drone strike”. The information is available as a .json API.
+
+I used the Raw JSON Feed dronesteam provided and converted the .json file a .csv using konklone’s JSON to CSV coverter.
+
+After that, it was as easy as using a TileMill’s tutorials to plot the points a map.
+
+Acquiring the tiles, of Yemen, Pakistan, and Somalia wasn’t relatively easy. I used a shapefile of roads provided free by Diva GIS.
+
+If you have questions or comments about this map, please feel free to contact me via email at hey.bernard [at] gmail [dot] com.
