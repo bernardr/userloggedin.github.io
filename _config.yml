@@ -10,7 +10,7 @@ permalink:        pretty
 title:            User Logged In
 tagline:          'Felt Cute Will Delete Later'
 description:      'hacking & ⚑ ⚑ ⚑.'
-url:              userloggedin.bernardr.com/
+url:              http://userloggedin.bernardr.com
 baseurl:          /
 author:
   name:           'userloggedin'
