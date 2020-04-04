@@ -11,8 +11,7 @@ title:            User Logged In
 tagline:          'Felt Cute Will Delete Later'
 description:      'hacking & ⚑ ⚑ ⚑.'
 url:              userloggedin.bernardr.com
-baseurl:          https://github.com/bernardr/userloggedin.github.io/
-
+baseurl:          github.com/bernardr/userloggedin.github.io/tree/master
 author:
   name:           'userloggedin'
   url:            https://twitter.com/bestbuypayphone
