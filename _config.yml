@@ -10,8 +10,8 @@ permalink:        pretty
 title:            User Logged In
 tagline:          'Felt Cute Will Delete Later'
 description:      'hacking & ⚑ ⚑ ⚑.'
-url:              userloggedin.bernardr.com
-baseurl:          userloggedin.bernardr.com/
+url:              userloggedin.bernardr.com/
+baseurl:          
 author:
   name:           'userloggedin'
   url:            https://twitter.com/bestbuypayphone
