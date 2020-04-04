@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Drones
 permalink: 2020-04-03-drones.html
 tags: drones, maps, projects
